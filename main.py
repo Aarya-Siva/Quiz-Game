@@ -96,4 +96,3 @@ else:
 print("Quiz Complete")
 print("You answered " + str(points) + " out of 7 correctly.")
 
-#Please put more questions, otherwise very good
